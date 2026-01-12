@@ -1,0 +1,5 @@
+{
+  "name": "FOL Medical Diagnosis Chatbot",
+  "description": "An explainable medical diagnosis system using First-Order Logic (FOL) with forward and backward chaining inference engines, featuring natural language symptom parsing via Gemini.",
+  "requestFramePermissions": []
+}
